@@ -1,0 +1,1 @@
+Flowwers cannot be placed in adjacent plots 
